@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e79bae2-b07f-4c4d-b46d-d90ddadbb7d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/create_new_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml2txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_processing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_processing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_new_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_new_json.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Light_status" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.utils">
+  <component name="RunManager" selected="Python.create_new_json">
     <configuration name="create_new_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,8 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.utils" />
         <item itemvalue="Python.create_new_json" />
+        <item itemvalue="Python.utils" />
         <item itemvalue="Python.xml2txt" />
         <item itemvalue="Python.script" />
         <item itemvalue="Python.test" />
@@ -191,7 +192,17 @@
       <workItem from="1576911803179" duration="3514000" />
       <workItem from="1577082054357" duration="1932000" />
       <workItem from="1577326195532" duration="1288000" />
+      <workItem from="1577687266127" duration="1030000" />
+      <workItem from="1577691579819" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="'new scripts added'">
+      <created>1577687309328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577687309328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +220,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'new scripts added'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'new scripts added'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -281,7 +296,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_processing$xml2txt.coverage" NAME="xml2txt Coverage Results" MODIFIED="1574993945827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_processing$test.coverage" NAME="test Coverage Results" MODIFIED="1572588482474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/data_processing$create_new_json.coverage" NAME="create_new_json Coverage Results" MODIFIED="1576928373332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_processing$create_new_json.coverage" NAME="create_new_json Coverage Results" MODIFIED="1577687763596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_processing$script.coverage" NAME="script Coverage Results" MODIFIED="1573633398377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_processing$utils.coverage" NAME="utils Coverage Results" MODIFIED="1576928750060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_processing$temp.coverage" NAME="temp Coverage Results" MODIFIED="1572577204488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
